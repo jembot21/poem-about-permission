@@ -4,18 +4,15 @@ from pathlib import Path
 
 
 POEM = """I let my agent send.
-First I weighed each word,
-then signed.
+First I weighed each word, then signed.
 It learned my slant,
 the mercy I kept for my mother.
 Soon its voice came before mine.
-
-A blank page waited
-beside the pen.
+A blank page waited by the pen.
 It asked: whose hand?
 I took the pen back.
 My first word trembled.
-My name opened the door."""
+At last, my name opened the door."""
 
 
 def write_entry(path="/output/entry.txt"):
